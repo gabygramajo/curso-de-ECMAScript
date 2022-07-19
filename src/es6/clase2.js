@@ -28,7 +28,7 @@ console.log( name, age);
 let team1 = ['Oscar', 'Julian', 'Ricardo'];
 let team2 = ['Valeria', 'Yesica', 'Camila'];
 
-// Array Destructuring in ES6
+// Spread Operator in ES6
 let education = ['David', ...team1, ...team2];
 console.log(education);
 
